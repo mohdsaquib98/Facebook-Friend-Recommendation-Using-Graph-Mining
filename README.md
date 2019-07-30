@@ -24,4 +24,6 @@ data contains two columns source and destination eac edge in graph
 ### Performance metric for supervised learning:  
 - Both precision and recall is important so F1 score is good choice
 - Confusion matrix
-
+### Library which you may not have pre-installed
+- Networkx
+- pip3 install networkx
